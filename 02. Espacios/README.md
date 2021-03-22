@@ -5,7 +5,7 @@
 * Descargar zip de Material Clases (gdrive). * Seguir las instrucciones de este README.md.
 * Guardar un espacio de trabajo de VSC para este proyecto.
 * Generar al menos 4 snippets de código que solamente estén disponibles en este espacio de trabajo.
-* 
+
 
 
 ## ¿Qué descargué?
