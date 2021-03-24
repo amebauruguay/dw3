@@ -43,7 +43,7 @@ $ sass --watch src/scss/estilos.scss:css/estilos.css
 ```
 
 ```
-sass --watch src/scss/estilos.scss:css/estilos.min.css
+sass --watch src/scss/estilos.scss:css/estilos.min.css --style compressed
 >>> Sass is watching for changes. 
 >>> Change detected to: src/scss/estilos.scss
       write css/estilos.min.css
