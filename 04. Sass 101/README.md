@@ -43,7 +43,7 @@ $ sass --watch src/scss/estilos.scss:css/estilos.css
 ```
 
 ```
-sass --watch src/scss/estilos.scss:css/estilos.min.css
+sass --watch src/scss/estilos.scss:css/estilos.min.css --style compressed
 >>> Sass is watching for changes. 
 >>> Change detected to: src/scss/estilos.scss
       write css/estilos.min.css
@@ -51,7 +51,7 @@ sass --watch src/scss/estilos.scss:css/estilos.min.css
 ```
 # 
 ## Letra
-Descargar el [ejercicio de DW1](https://drive.google.com/open?id=1h5-mBZatd2F5cpWu5gpiR385dhE3HuVO&authuser=mvallve%40ameba.com.uy&usp=drive_fs) realizado por un alumno y convertirlo en un proyecto que utilice Sass según la siguiente estructura.
+Descargar el [ejercicio de DW1](https://drive.google.com/open?id=1h5-mBZatd2F5cpWu5gpiR385dhE3HuVO&authuser=mvallve%40ameba.com.uy&usp=drive_fs) realizado por un alumno y convertirlo en un proyecto que utilice parciales de Sass según la siguiente estructura.
 
 
 ### Estructura

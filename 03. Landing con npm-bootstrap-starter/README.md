@@ -6,7 +6,7 @@
 `bootstrap-npm-starter` es un repositorio de GitHub para crear proyectos con npm y Bootstrap. El repositorio es mantenido por uno de los co-autores de Bootstrap @mdo. Si bien hoy corre la versión 4 de hay planes de pasarlo a la v5.
 
 ## De acá en más
-La explicación y que sigue est literal la que pueden encontrar en el repositorio. El objetivo es que se enfrenten a un README de la vida real =P.
+La explicación que sigue es literal la que pueden encontrar en el repositorio. El objetivo es que se enfrenten a un README de la vida real =P.
 
 # 
 

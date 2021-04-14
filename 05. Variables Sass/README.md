@@ -25,7 +25,7 @@ Ejemplos
 El css y su mapeo deberán generarse automaticamente utilizando uno de los métodos vistos.
 
 ## &nbsp;
-# Thememing
+# Thememing (opcional)
 
 Crear un segundo archivo de variables llamado `_variables_organicas.scss` donde se redefinan las variables principales del sitio buscando un diseño más orgánico. 
 
